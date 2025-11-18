@@ -1,0 +1,14 @@
+
+
+@import url("nav2.css");
+@import url("video.css");
+@import url("global.css");
+
+html body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
